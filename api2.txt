@@ -230,7 +230,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E9%AA%9A%E7%81%AB.json"
+      "ext": "https://github.com/liupinero/cat/raw/main/xpath/%E9%AA%9A%E7%81%AB.json"
     },
     {
       "key": "csp_xpath_lezhutv",
@@ -240,7 +240,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E4%B9%90%E7%8C%AAtv.json"
+      "ext": "https://github.com/liupinero/cat/raw/main/xpath/%E4%B9%90%E7%8C%AAtv.json"
     },
  {
       "key": "csp_xpath_ddg",
@@ -250,7 +250,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/dadagui.json"
+      "ext": "https://github.com/liupinero/cat/raw/main/xpath/dadagui.json"
     },
     {
       "key": "csp_appys_看365",
@@ -476,7 +476,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/dianyingmi8.json"
+      "ext": "https://github.com/liupinero/cat/raw/main/xpath/dianyingmi8.json"
     },
   {
       "key": "csp_xpath_xqm",
