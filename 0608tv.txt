@@ -143,7 +143,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "网上自己找XBIUBIU"
+      "ext": "https://github.com/liupinero/cat/raw/main/xpath/%E4%B9%90%E7%8C%AAtv.json"
     },
     {
       "key": "csp_biubiu_lgyy",
@@ -183,7 +183,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "网上自己找XPATH"
+      "ext": "https://github.com/liupinero/cat/raw/main/xpath/huya.json"
     },
     {
       "key": "csp_xpath_hdmoli",
@@ -503,5 +503,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://github.com/liupinero/cat/raw/main/BL0608.jar"
+  "spider": "https://github.com/liupinero/cat/raw/main/jar/BL0608.jar"
 }
