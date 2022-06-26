@@ -24,7 +24,7 @@
 // 套Biubiu规则
 // spider皆测试OK 猫影视TV 2.1.0.5
 //"spider":"https://raw.githubusercontent.com/liupinero/cat/main/MeowXB/XBiubiu.jar",
-"spider":"img+https://github.com/liupinero/cat/blob/main/jar/0.jiketuchuang.bmp",
+"spider":"img+https://github.com/liupinero/cat/blob/main/jar/0.jiketuchuang.bmp?raw=true",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2xpdXBpbmVyby9jYXQvYmxvYi9tYWluL3R2LnR4dA=="]}]}],
