@@ -1,6 +1,4 @@
 {"wallpaper":"https://picsum.photos/1280/720/?blur=10",
-//"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
-//"spider":"https://raw.githubusercontent.com/liupinero/cat/main/MeowXB/XBiubiuLA2.jar",
 "spider":"https://github.com/liupinero/cat/blob/main/jar/XBiubiuLA3.jar?raw=true",
 "sites":[
 {
